@@ -151,7 +151,9 @@ img{
     img {
         display:block;
         margin-top:-70px;
-        width: 520px;
+        width: 480px;
         height: 150px;
+        margin-left: 10px;
+        margin-right: 5px;
     }
 }
